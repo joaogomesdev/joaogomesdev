@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [joaogomesdev](https://github.com/JoaoGomes5/joaogomesdev)
 
-- 🌱 I’m currently learning **Front-end ecosystem 🖌️**
+- 🌱 I’m currently learning about the **Front-end ecosystem 🖌️**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JoaoGomes5](https://github.com/JoaoGomes5)
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/JoaoGomes5)
 
 - 📫 How to reach me **Twitter**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joaogomesdev](https://www.linkedin.com/in/joaogomesdev)
+- 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/joaogomesdev)
 
 - ⚡ Fun fact **I love Films, Rock Music and pretty much everything 😁**
 
