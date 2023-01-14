@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/joaogomesdev)
 
-- ⚡ Fun fact **I love Films, Rock Music and pretty much everything 😁**
+- ⚡ Fun fact **I love Games, Films, Rock Music and pretty much everything 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
