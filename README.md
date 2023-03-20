@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about the **Front-end ecosystem 🖌️**
 
-- 👨‍💻 All of my projects are available on my [Github](https://github.com/JoaoGomes5)
+- 👨‍💻 All of my projects are available on my [Github](https://github.com/joaogomesdev)
 
 - 📫 How to reach me **Twitter**
 
