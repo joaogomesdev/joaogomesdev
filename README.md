@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm João</h1>
 <h3 align="center">Enthusiastic about web / mobile development 👨‍💻 Lets share knowledge to create a better world 🌍</h3>
 
-- 🔭 I’m currently working on [joaogomesdev](https://github.com/JoaoGomes5/joaogomesdev-svelte)
+- 🔭 I’m currently working on [joaogomesdev](https://github.com/joaogomesdev/joaogomesdev-svelte)
 
 - 🌱 I’m currently learning about the **Front-end ecosystem 🖌️**
 
