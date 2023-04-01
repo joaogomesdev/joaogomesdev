@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/joaogomesdev)
 
-- 📫 How to reach me **Twitter**
+- 📫 How to reach me - [Twitter](https://twitter.com/joaogomesdev)
 
 - 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/joaogomesdev)
 
