@@ -1,6 +1,6 @@
 <h1 align="center">Hi ✌️, I'm João</h1>
 
-- Frontend developer enthusiast working @ [Significa 🥚](https://significa.co)
+Frontend developer enthusiast working @ [Significa 🥚](https://significa.co)
 
 - 👨🏻‍💻 [joaogomes.dev](https://joaogomes.dev) is now on the web 🎉
 
