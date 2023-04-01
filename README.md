@@ -1,5 +1,3 @@
-<h1 align="center">Hi ✌️, I'm João</h1>
-
 <img src="https://i.imgur.com/2NfRDaS.jpg" >
 
 Frontend developer enthusiast working @ [Significa 🥚](https://significa.co)
