@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✌️, I'm João</h1>
-<h3 align="center">Enthusiastic about web / mobile development 👨‍💻 Lets share knowledge to create a better world 🌍</h3>
+<h3 align="center">Frontend developer enthusiast working @ [Significa 🥚](https://significa.co)</h3>
 
 - 👨🏻‍💻 [joaogomes.dev](https://joaogomes.dev) is now on the web 🎉
 
