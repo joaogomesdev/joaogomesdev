@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm João</h1>
 <h3 align="center">Enthusiastic about web / mobile development 👨‍💻 Lets share knowledge to create a better world 🌍</h3>
 
-- 👨🏻‍💻 [joaogomesdev.dev](https://joaogomes.dev) is now on the web 🎉
+- 👨🏻‍💻 [joaogomes.dev](https://joaogomes.dev) is now on the web 🎉
 
 - 🔭 I’m currently working on [joaogomesdev](https://github.com/joaogomesdev/joaogomes.dev)
 
