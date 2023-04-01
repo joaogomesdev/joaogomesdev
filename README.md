@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 [joaogomes.dev](https://joaogomes.dev) is now on the web 🎉
 
-- 🔭 I’m currently working on [joaogomesdev](https://github.com/joaogomesdev/joaogomes.dev)
+- 🔭 I’m currently working on [joaogomes.dev](https://github.com/joaogomesdev/joaogomes.dev)
 
 - 🌱 I’m currently learning about the **Front-end ecosystem 🖌️**
 
