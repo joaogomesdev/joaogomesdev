@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/2NfRDaS.jpg" >
 
-Frontend developer enthusiast working @ [Significa 🥚](https://significa.co)
+Developer enthusiast
 
 - 👨🏻‍💻 [joaogomes.dev](https://joaogomes.dev) is now on the web 🎉
 
