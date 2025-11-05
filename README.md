@@ -1,9 +1,9 @@
 # 👋 Olá! Sou o João Gomes
 
 ## 📌 Sobre mim:
-- 🎓 Estudante de Engenharia de Software (19 anos)  
-- 💻 Pretendo me especializar como **Back-end Developer**, mas também gosto de brincar no **Front-end**  
-- 🚀 Sempre em busca de aprender mais e evoluir minhas habilidades  
+- 🎓 Estudante de Engenharia de Software (19 anos);  
+- 💻 Atualmente, trabalho como desenvolvedor **Front-end** e estudo **Engenharia e análise de dados**;  
+- 🚀 Sempre em busca de aprender mais e evoluir minhas habilidades.  
 
 ---
 
