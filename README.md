@@ -2,7 +2,7 @@
 
 ## 📌 Sobre mim:
 - 🎓 Estudante de Engenharia de Software (19 anos);  
-- 💻 Atualmente, trabalho como desenvolvedor **Front-end** e estudo **Engenharia e análise de dados**;  
+- 💻 Atualmente, estudo para ser **desenvolvedor Back-end**;  
 - 🚀 Sempre em busca de aprender mais e evoluir minhas habilidades.  
 
 ---
