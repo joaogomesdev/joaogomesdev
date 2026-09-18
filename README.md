@@ -1,7 +1,7 @@
 # 👋 Olá! Sou o João Gomes
 
 ## 📌 Sobre mim:
-- 🎓 Estudante de Engenharia de Software (19 anos);  
+- 🎓 Estudante de Engenharia de Software (20 anos);  
 - 💻 Atualmente, estudo para ser **Analista, Cientista e Engenheiro de Dados**;  
 - 🚀 Sempre em busca de aprender mais e evoluir minhas habilidades.  
 
