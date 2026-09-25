@@ -18,13 +18,6 @@
 
 ---
 
-## 📊 Minhas Estatísticas
-
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaogomesdev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogomesdev&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/joaogomes34_) 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaogomesdev)  
