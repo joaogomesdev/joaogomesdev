@@ -2,7 +2,7 @@
 
 ## 📌 Sobre mim:
 - 🎓 Estudante de Engenharia de Software (20 anos);  
-- 💻 Atualmente, estudo para ser **Analista, Cientista e Engenheiro de Dados**;  
+- 💻 Atualmente, estudo para trabalhar com **Dados ou DevOps**;  
 - 🚀 Sempre em busca de aprender mais e evoluir minhas habilidades.  
 
 ---
