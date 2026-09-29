@@ -1,6 +1,6 @@
 # 💫 About Me:
-Data Scientist and future DevOps
-20y
+Data Scientist and future DevOps |
+20y |
 📍 Brazil
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/931360858427228180) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaogomes34_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-gomes-781408388/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaogomesdev24@gmail.com) 
