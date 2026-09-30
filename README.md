@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist and future DevOps |
+Data Scientist and Frond End Developer |
 20y |
 📍 Brazil
 ## 🌐 Socials:
