@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist and Frond End Developer |
+Data Scientist, Frond End Developer and UI/UX Designer |
 20y |
 📍 Brazil
 ## 🌐 Socials:
