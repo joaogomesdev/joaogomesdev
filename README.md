@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst, Frond End Developer and UI/UX Designer |
+Product Designer, UI/UX, Front-End Developer, Tech Lead & Data Science |
 20y |
 📍 Brazil
 ## 🌐 Socials:
