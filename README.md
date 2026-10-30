@@ -1,5 +1,5 @@
 # 💫 About Me:
-Product Designer, UI/UX, Front-End Developer, Tech Lead & Data Analysis |
+Product Designer, UI/UX, QA Tester, Front-End Developer, Tech Lead & Data Analysis |
 20y |
 📍 Brazil
 ## 🌐 Socials:
